@@ -1,0 +1,27 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Shadow\GetLightDepth.cs">
+    <Files>
+      <File FileName="Assets\Shadow\SampleLightDepth.shader" Line="25" Column="14" />
+      <File FileName="Assets\Shadow\GetLightDepth.cs" Line="16" Column="14" />
+      <File FileName="Assets\Shadow\BaseShadowMap.cs" Line="11" Column="12" />
+      <File FileName="Assets\TestShadowMap.shader" Line="45" Column="16" />
+      <File FileName="Assets\Depth\ObjectDepth.shader" Line="37" Column="36" />
+      <File FileName="Assets\BaseShadowMapShader.shader" Line="60" Column="5" />
+      <File FileName="Assets\Depth\CameraDepth.shader" Line="23" Column="39" />
+      <File FileName="Assets\Depth\CameraDepth.cs" Line="22" Column="50" />
+      <File FileName="Assets\Depth\CustomDepth.cs" Line="22" Column="3" />
+      <File FileName="Assets\Depth\DepthTarget.shader" Line="24" Column="4" />
+      <File FileName="Assets\Depth\DepthToWorld.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="C:\Users\烧饼\Desktop\UnityShadowMap\Assets\Shadow\BaseShadowMap.cs" line="19" column="4" />
+      <Breakpoint file="C:\Users\烧饼\Desktop\UnityShadowMap\Assets\Shadow\BaseShadowMap.cs" line="16" column="7" />
+      <Breakpoint file="C:\Users\烧饼\Desktop\UnityShadowMap\Assets\Shadow\BaseShadowMap.cs" line="11" column="12" />
+      <Breakpoint file="C:\Users\烧饼\Desktop\UnityShadowMap\Assets\Shadow\GetLightDepth.cs" line="16" column="14" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
